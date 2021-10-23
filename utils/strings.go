@@ -1,4 +1,4 @@
-package strings
+package utils
 
 func Lower(str string) string {
 	bytes := []byte(str)
