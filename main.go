@@ -8,4 +8,8 @@ import (
 func main() {
 	fmt.Println(utils.Upper("Kambar"))
 	fmt.Println(utils.Lower("Kambar"))
+
+	fmt.Println(utils.Square(100))
+
+	fmt.Println(utils.GetUUID())
 }
